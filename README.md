@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me 👋
 
-<!--
-**MagsDraw/MagsDraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Magdalena Valcheva also known as MagsDraw.
+You can find me on any social media with this nickname.
 
-Here are some ideas to get you started:
+I'm a young lady passionate about art, gaming, sport and IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in becoming a Web Developer in this chapter of my life.
+I am currently learning HTML/CSS, JavaScript, React, Bootstrap, and Jquery.
+
+
+For starters, I've focused on Frond-End Wed Dev. But I want to make it Full Stack.
+
+
+
+
